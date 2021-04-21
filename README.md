@@ -1,1 +1,1 @@
-# kaggle_competitions
+# kaggle_competition
